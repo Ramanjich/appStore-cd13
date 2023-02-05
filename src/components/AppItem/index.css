@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.mini-app {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  list-style-type: none;
+  margin: 5px;
+}
+.app-image {
+  height: 50px;
+  width: 50px;
+}
+.image-con {
+  margin-top: 10px;
+}
